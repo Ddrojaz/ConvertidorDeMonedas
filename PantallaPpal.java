@@ -6,7 +6,7 @@ import logica.Operaciones;
 
 public class PantallaPpal extends javax.swing.JFrame {
 
-	private javax.swing.JButton botonConvertir;
+    private javax.swing.JButton botonConvertir;
     private javax.swing.JButton botonRefrescar;
     private javax.swing.JButton botonSalir;
     private javax.swing.JComboBox<String> boxmoneda;
